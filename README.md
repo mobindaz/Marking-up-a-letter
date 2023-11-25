@@ -36,8 +36,8 @@ Feel free to fork this repository and use it as a starting point for your projec
 
 ## Author
 
-- Your Name
-- Contact: [Your Email]
+- Mobindas M
+- mobindasche@gmail.com
 
 ## License
 
